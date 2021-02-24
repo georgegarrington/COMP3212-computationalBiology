@@ -1,0 +1,76 @@
+RID: 3CYASRFB114	
+Job Title: sp|P63015|PAX6_MOUSE Paired box protein 				
+Program: BLASTP 
+Subject:tr|O96791|O96791_DROME Eyeless protein (Fragment) OS=Drosophila melanogaster OX=7227 GN=ey PE=4 SV=1 ID: lcl|Query_38263(amino acid) Length: 101
+Query #1: sp|P63015|PAX6_MOUSE Paired box protein Pax-6 OS=Mus musculus OX=10090 GN=Pax6 PE=1 SV=1 Query ID: lcl|Query_38261 Length: 422
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+<tr id="dtr_<@dflnFrm_id@>" ind="<@dfln_blast_rank@>" class="<@trtp@> dflLnk" >
+<td class="l c0"><span class="ind"><@dfln_blast_rank@></span><input type="checkbox" id="chk_<@dfln_blast_rank@>" class="cb" name="getSeqGi" value="<@dfln_id@>" onclick="configDescrLinks(event,this)" /></td>
+<td class="lim l c2">
+<div class="lim n">
+<a title="Go to alignment for tr|O96791|O96791_DROME Eyeless protein (Fragment) OS=Drosophil... " class="deflnDesc" hsp="<@dfln_hspnum@>" len="<@dfln_alnLen@>" ind="<@dfln_blast_rank@>" accs="<@dflnAccs@>" seqFSTA="<@dflnFASTA_id@>" gi="<@dfln_id@>"  seqID="<@dflnFrm_id@>" id="deflnDesc_<@dfln_blast_rank@>" onclick="DisplayAlignFromDescription(this);" href="#alnHdr_<@dflnFrm_id@>">tr|O96791|O96791_DROME Eyeless protein (Fragment) OS=Drosophil... </a>
+</div>
+</td>
+<td class="c3">-246.0 </td>
+<td class="c7">9.00   %</td>
+<td class="c1 l lim">
+Query_38263      
+</td>
+</tr>
+
+Alignments:
+>tr|O96791|O96791_DROME Eyeless protein (Fragment) OS=Drosophila melanogaster OX=7227 GN=ey PE=4 SV=1
+Sequence ID: Query_38263 Length: 101 
+Range 1: 1 to 101
+
+<table class="alnParams">
+<caption class="hdnHeader">Alignment statistics for match #1</caption>
+<tr>
+<th>NW Score</th><th>Identities</th><th>Positives</th><th>Gaps</th><th class="aln_frame ">Frame</th>
+</tr>
+<tr>
+<td>-246</td>
+<td>42/478(9%)</td>
+<td>43/478(8%)</td>
+<td>429/478(89%)</td>
+<td class="aln_frame "></td>
+</tr>
+</table>
+Query  1        MQN----------------------------------------------------S  4
+                M+N                                                     
+Sbjct  1    NVIAMRNLPCLGTAGGSGLGGIAGKPSPTMEAVEASTASHPHSTSSYFATTYYHLTDDEC  60
+
+Query  5    HSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISRILQVSNGCVSKILGRYYETG  64
+            HSGVNQLGGVFV GRPLPDSTRQKIVELAHSGARPCDISRI                   
+Sbjct  61   HSGVNQLGGVFVGGRPLPDSTRQKIVELAHSGARPCDISRI                     101
+
+Query  65   SIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSIN  124
+                                                                        
+
+Query  125  RVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGG  184
+                                                                        
+
+Query  185  ENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLA  244
+                                                                        
+
+Query  245  AKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTT  304
+                                                                        
+
+Query  305  PVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSV  364
+                                                                        
+
+Query  365  NGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ  422
+                                                                      
+
+
+
+
+
+
+
+		
+
+
